@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4114d28d.css",
+    "main.js": "/static/js/main.11d3aba6.js",
+    "static/media/watching_anime.png": "/static/media/watching_anime.e75b502c68a8ae766648.png",
+    "static/media/developer_gamer.png": "/static/media/developer_gamer.cbf3d862352bf6c09456.png",
+    "static/media/playing_drum.png": "/static/media/playing_drum.22e8428de03dd1fb0a2c.png",
+    "static/media/mypic.jpg": "/static/media/mypic.6ed1d6933435ecaad8a7.jpg",
+    "static/media/simple_lists.JPG": "/static/media/simple_lists.cdc417620214e15a5546.JPG",
+    "static/media/shoppingstore.JPG": "/static/media/shoppingstore.defa41cdade03efea593.JPG",
+    "static/media/mypicSmiling.jpeg": "/static/media/mypicSmiling.91f191e0cbbeea382c8e.jpeg",
+    "static/media/contact_registration_form.JPG": "/static/media/contact_registration_form.b71673a2de4cc65efd36.JPG",
+    "static/media/under_construction.webp": "/static/media/under_construction.400c89b12550893ff87c.webp",
+    "static/media/lightsOffOn.JPG": "/static/media/lightsOffOn.d515786c0f8458b8634d.JPG",
+    "static/media/feedbackform.JPG": "/static/media/feedbackform.8554041dec6c9734477c.JPG",
+    "static/media/ninjaChallenge.JPG": "/static/media/ninjaChallenge.a36df533f52d24a3c4f8.JPG",
+    "static/media/cherryblossom.gif": "/static/media/cherryblossom.d38a069c89c4ae0a4b1f.gif",
+    "index.html": "/index.html",
+    "main.4114d28d.css.map": "/static/css/main.4114d28d.css.map",
+    "main.11d3aba6.js.map": "/static/js/main.11d3aba6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4114d28d.css",
+    "static/js/main.11d3aba6.js"
+  ]
+}
